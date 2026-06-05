@@ -1,0 +1,27 @@
+{
+  "name": "speckit-skills",
+  "version": "1.0.0",
+  "description": "Spec Kit spec-driven development workflow skills",
+  "author": {
+    "name": "PartMeAI",
+    "email": "partmeai@gmail.com"
+  },
+  "homepage": "https://github.com/full-statck-skills/speckit-skills",
+  "repository": "https://github.com/full-statck-skills/speckit-skills",
+  "source": "./",
+  "skills": [
+    "./skills/speckit-analyze",
+    "./skills/speckit-baseline",
+    "./skills/speckit-check",
+    "./skills/speckit-checklist",
+    "./skills/speckit-clarify",
+    "./skills/speckit-constitution",
+    "./skills/speckit-implement",
+    "./skills/speckit-initial",
+    "./skills/speckit-install",
+    "./skills/speckit-plan",
+    "./skills/speckit-specify",
+    "./skills/speckit-tasks",
+    "./skills/speckit-taskstoissues"
+  ]
+}
